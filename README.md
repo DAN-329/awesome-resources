@@ -84,6 +84,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
+- [CSS - Cheat Sheet](https://www.hostinger.in/tutorials/css-cheat-sheet)
 
 ---
 
